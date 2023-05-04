@@ -6,7 +6,7 @@ API containing information about teams in the premier leage.
 Link to project: TBD
 
 How It's Made:
-Tech used: HTML, CSS, JavaScript,
+Tech used: HTML, JavaScript,
 
 Practice buidling APIs with class 39 of LWL
 
